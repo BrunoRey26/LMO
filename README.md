@@ -1,2 +1,2 @@
-# lmo
+# LMO
 La Mejor Opción
